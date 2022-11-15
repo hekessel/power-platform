@@ -80,8 +80,8 @@ The following connectors can't be blocked by using DLP policies.
 |Planner     |         |
 |Power BI      |         |
 |SharePoint     |         |
-|Shifts     |         |
-|Skype for Business Online      |         |
+|Shifts for Microsoft Teams     |         |
+|Skype for Business Online [DEPRECATED]      |         |
 |Yammer      |         |
 
 > [!NOTE]
