@@ -70,7 +70,7 @@ The following connectors can't be blocked by using DLP policies.
 |Excel Online (Business)     | Dataverse       |
 |Kaizala       | Dataverse (current environment)        |
 |Microsoft 365 Groups      | Power Apps Notifications (v1 and v2)        |
-|Microsoft 365 Groups Mail (Preview)      |         |
+|Microsoft 365 Groups Mail      |         |
 |Microsoft 365 Outlook      |         |
 |Microsoft 365 Users      |         |
 |Microsoft Teams       |      |
